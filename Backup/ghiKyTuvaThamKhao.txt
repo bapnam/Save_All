@@ -1,0 +1,23 @@
+///****************************
+- Danh mục ký tự
+
+thư viện mô hình hóa đối tượng (Object Data Model – ODM) 
+RAM - random access memory
+Indexing
+Replication
+ad hoc query
+Aggregation
+transaction_ giao dịch cạnh tranh
+schema(lược đồ) 
+platform (nền tảng)
+Javascript Runtime
+
+
+
+///*******************************
+- Danh mục tham khảo
+
+
+
+
+
